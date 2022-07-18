@@ -162,6 +162,7 @@ but, if you use HTML, you can fix this, and customize the list "type"
 > <details>
 >  <summary>Click me for something absolutely amazing</summary>
 >
+  <!--- the above line is left intentionally inorder to favor the functionality, else it would be shown as an html element instead -->
 >```ts
 >  let Hello : string = 'World';
 >```
